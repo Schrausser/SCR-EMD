@@ -1,6 +1,6 @@
 # SCR-EMD
 
-Microsoft Windows screensaver, simulating parts of EMD Procedure implemented by Schrausser et al. (1994, 2022, respectively). 
+Microsoft Windows screensaver, simulating parts of EMDR Procedure implemented by Schrausser et al. (1994, 2022, respectively). 
 
 ## References
 
