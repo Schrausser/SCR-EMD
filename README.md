@@ -8,4 +8,4 @@ Schrausser, D. G., Draxler, J., & Plechinger, J. (1994). EMD - Eye Movement Dese
 
 ———. (2022). EMD - Eye Movement Desensitization. *Manuscript*. (English translation). Institute of Psychology, Karl Franzens University, Graz, Austria. https://doi.org/10.5281/zenodo.13787891
 
-Schrausser, D. G. (2023). EMDA: Treatment procedure for lateral Eye Movement Desensitization. *PsyArxiv, May, 2023*. https://doi.org/10.31234/osf.io/n2r5z
+Schrausser, D. G. (2023). EMDA: Treatment procedure for lateral Eye Movement Desensitization. *PsyArXiv, 09, May, 2023*. https://doi.org/10.31234/osf.io/n2r5z
